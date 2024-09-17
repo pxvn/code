@@ -1,1 +1,0 @@
-print("Sabh ki maa ki chut")
